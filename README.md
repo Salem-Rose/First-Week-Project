@@ -5,7 +5,7 @@ by Karen Yodico
 
 {This is a project to create my first webpage portfolio for Epicodus}
 <br>
-{Here is my GitHub Link: https://Salem-Rose.github.io/First-Week-Project/
+Here is my GitHub Link: https://Salem-Rose.github.io/First-Week-Project/
 ## Technologies Used
 
 * _Visual Studio Code_
