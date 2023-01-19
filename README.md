@@ -4,7 +4,8 @@ Porfolio Project
 by Karen Yodico
 
 {This is a project to create my first webpage portfolio for Epicodus}
-_{Here is my GitHub Link: https://Salem-Rose.github.io/First-Week-Project/
+<br>
+Here is my GitHub Link: https://Salem-Rose.github.io/First-Week-Project/
 
 ## Technologies Used
 
